@@ -1,0 +1,31 @@
+================================================================================
+DISCLAIMER
+WHQ 1995 Card Layout Tool — Fairmaiden Wargaming & Gameplay / @peilliad
+================================================================================
+
+This tool is a fan-made, non-commercial project created for personal and
+community use only.
+
+Warhammer Quest (1995) and all associated names, characters, artwork, and
+intellectual property are the property of Games Workshop Group PLC.
+
+This project is not affiliated with, endorsed by, or connected to Games Workshop
+in any way. No copyright infringement is intended.
+
+The card templates (T7.png, T8.png) and any original artwork used in conjunction
+with this tool may be subject to Games Workshop's intellectual property rights.
+Users are solely responsible for ensuring their use of such materials complies
+with applicable laws and Games Workshop's IP policy:
+https://www.games-workshop.com/en-GB/Intellectual-Property-Policy
+
+This tool does not distribute any copyrighted Games Workshop material.
+All fonts included (Casablanca Antique, Newtext BkBT) must be obtained legally
+by the user and are not redistributed with this project.
+
+This project is provided "as is", without warranty of any kind. The authors
+accept no liability for any damages arising from its use.
+
+================================================================================
+Fairmaiden Wargaming & Gameplay | @peilliad
+https://www.facebook.com/fairmaiden.wargaming/
+================================================================================

@@ -1,0 +1,130 @@
+================================================================================
+INSTRUCTIONS
+WHQ 1995 Card Layout Tool — Barbarian Edition
+Fairmaiden Wargaming & Gameplay / @peilliad
+https://www.facebook.com/fairmaiden.wargaming/
+================================================================================
+
+OVERVIEW
+--------
+This tool lets you design and export double-sided Warhammer Quest 1995 monster
+cards (Front + Back) directly in your browser. No installation required —
+just open the HTML file locally.
+
+
+REQUIRED FILES (must all be in the same folder)
+------------------------------------------------
+  a4_barbarian.html              — Main tool (this file)
+  T7.png                         — Front card template image
+  T8.png                         — Back card template image
+  Casablanca Antique Plain.ttf   — Title font
+  Enitcnbd.ttf                   — Bold body font (Newtext BkBT Bold)
+  ENITCNBK.TTF                   — Regular body font (Newtext BkBT)
+
+NOTE: Fonts must be obtained and placed in the same folder as the HTML file.
+The tool will still work without them but text will fall back to system fonts.
+
+
+GETTING STARTED
+---------------
+1. Place all required files in the same folder.
+2. Open a4_barbarian.html in your browser (Chrome or Edge recommended).
+3. Load your templates:
+   - Under "Front" panel → T7.png: click and select your T7.png file.
+   - Under "Back" panel  → T8.png: click and select your T8.png file.
+4. Load portraits (optional):
+   - Under "Front" → Portrait: select an image for the front face.
+   - Under "Back"  → Portrait: select an image for the back face.
+
+
+EDITING LAYERS
+--------------
+Use the "Active Layer" dropdown to select which element you want to work with.
+The selected layer is highlighted with a dashed border.
+
+  FRONT layers:
+    - Character Name       — the large title at the top
+    - Front Template       — the T7.png background (locked by default)
+    - Front Portrait       — the character illustration
+    - Stats                — Wounds, Move, WS, BS, S, T, I, A
+    - Equipment/Weapons    — gear and pinning info
+    - Special Rules        — free text block
+    - "To Hit" Table       — the bottom row of numbers
+    - Magic Modules        — power store boxes (hidden by default)
+
+  BACK layers:
+    - Back Template        — the T8.png background (locked by default)
+    - Back Title           — character name on the reverse
+    - Back Portrait        — optional image on the reverse
+    - Back Main Text       — rules, lore, or notes
+
+
+MOVING & SCALING LAYERS
+------------------------
+  Mouse:         Click any layer to select it, then drag to reposition.
+  Arrow buttons: Use ▲ ▼ ◀ ▶ in the panel for precise 1px nudging.
+  +  /  -        Scale the selected layer up or down (font size or image width).
+  Shift + Arrows Stretch the layer horizontally or vertically.
+
+
+EDITING TEXT
+------------
+  Double-click any text layer to enter edit mode.
+  Click outside (or press Tab) to confirm and save.
+
+
+TEMPLATE LOCK (🔒 Templates)
+-----------------------------
+  Templates are LOCKED by default (green button).
+  This prevents accidentally dragging T7 or T8 out of position.
+  Click the button to unlock (turns red) when you need to reposition a template.
+  Click again to re-lock when done.
+
+
+MAGIC MODULES
+-------------
+  Click "Magic: OFF" to toggle the Power Store boxes on/off.
+  Useful for spellcaster cards — hide for non-magic characters.
+
+
+AUTO "TO HIT" TABLE
+-------------------
+  1. Set the character's Weapon Skill (WS) in the Stats layer.
+  2. Click "Calculate To Hit" in the Front panel.
+  3. The bottom row fills in automatically using WHQ 1995 rules.
+
+
+EXPORTING
+---------
+  Front PNG / PDF   — Exports the front card only.
+  Back  PNG / PDF   — Exports the back card only.
+  PNG A4 / PDF A4   — Exports both cards side by side on a landscape A4 sheet
+                       at 300 dpi, ready for home printing and folding.
+
+  "Crop marks" checkbox adds corner registration marks and a fold line
+  to the A4 sheet to help with cutting and folding.
+
+
+LAYOUT MEMORY
+-------------
+  Your layer positions and text edits are saved automatically in the browser's
+  localStorage. They will be restored the next time you open the file in the
+  same browser.
+
+  Click "Reset" to clear all saved positions and start fresh.
+  (This does NOT delete loaded images — you will need to reload them.)
+
+
+TIPS
+----
+  - Chrome or Edge give the best rendering and export quality.
+  - For best print results use the A4 PDF export at default settings.
+  - Keep the template lock ON at all times unless you specifically need
+    to reposition T7 or T8.
+  - The tool works entirely offline — no internet connection needed once open.
+
+
+================================================================================
+Fairmaiden Wargaming & Gameplay | @peilliad
+https://www.facebook.com/fairmaiden.wargaming/
+================================================================================
